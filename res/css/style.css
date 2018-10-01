@@ -1,0 +1,32 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+
+body {
+   background-color: #F0E0D6;
+   color: #FFFFEE;
+   text-align: center;
+   font-family: 'Bungee';
+   font-size: 20pt;
+}
+
+img {
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+img.icon {
+   width: 100px;
+   height: 100px;
+}
+
+div#sightings {
+   margin-top: 100px;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+}
+
+div#muh-freedoms {
+   position: fixed;
+   bottom: 20px;
+   width: 100%;
+}
